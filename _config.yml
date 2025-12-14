@@ -2,7 +2,7 @@
 title: "The Systems Thinker's Weekly"
 description: "Weekly insights on systems modeling, NGSS alignment, and educational innovation from ModelIt! K12"
 url: "https://alexandria-s-design.github.io"
-baseurl: "/modelitk12-newsletter"
+baseurl: "/modelitk12-blog"
 
 # Build settings
 markdown: kramdown
