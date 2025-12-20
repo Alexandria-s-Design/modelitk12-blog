@@ -7,7 +7,7 @@ baseurl: "/modelitk12-blog"
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
-future: true  # Publish future-dated posts immediately
+future: false  # Only show posts whose date has passed
 
 # Defaults
 defaults:
